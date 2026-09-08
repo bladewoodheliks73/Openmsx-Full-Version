@@ -238,3 +238,6 @@ This repository serves as the official landing page for openMSX. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of openMSX today!**
+
+---
+**Last updated:** 2026-09-08 19:19:30 UTC
