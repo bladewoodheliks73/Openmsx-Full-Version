@@ -240,4 +240,4 @@ This repository serves as the official landing page for openMSX. The software is
 **Get the most recent version of openMSX today!**
 
 ---
-**Last updated:** 2026-09-16 16:26:50 UTC
+**Last updated:** 2026-09-16 19:53:01 UTC
